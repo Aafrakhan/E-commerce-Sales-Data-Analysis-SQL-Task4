@@ -58,5 +58,5 @@ The database `urbancart_db` contains three related tables:
 
 
 ## ✅ Outcome
-Gained hands-on experience manipulating and querying structured relational data using SQL — 
+Gained hands-on experience manipulating and querying structured relational data using SQL
 from basic filtering to joins, subqueries, aggregation, views, and query optimization with indexes.
